@@ -685,7 +685,7 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #4e4e4e;
+  color: #533a3a;
 }
 
 .skill-mf .progress {
@@ -699,11 +699,16 @@ a:hover {
   height: .7rem;
   background-color: #0078ff;
 }
+.lead{
+  font-family: 'Roboto Slab', serif;
+}
 
 /*======================================
 //--//-->   SERVICES
 ======================================*/
-
+.service-ico{
+  text-align: center;
+}
 .service-box {
   background-color: #fff;
   padding: 2.5rem 1.3rem;
