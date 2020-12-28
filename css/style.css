@@ -705,6 +705,10 @@ a:hover {
 .lead{
   font-family: 'Roboto Slab', serif;
 }
+.about-me .resumeclass{
+  justify-content: center;
+  align-items: center;
+}
 
 /*======================================
 //--//-->   SERVICES
